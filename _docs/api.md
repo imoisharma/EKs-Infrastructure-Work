@@ -69,8 +69,8 @@ URL: {{ClientsApiEndpoint}}/create
 
 ```js        
 {
-    "Name": "Pablo Maestre",
-    "Email": "pabloandresm93@gmail.com"
+    "Name": "Mohit Sharma",
+    "Email": "imoisharma@gmail.com"
 }
 ```
 
