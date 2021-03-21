@@ -1,4 +1,5 @@
 {
+
     "config": {
         "api": {
             "resourceApi": "http://localhost/resources-api",
